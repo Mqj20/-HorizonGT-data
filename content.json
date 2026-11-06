@@ -1064,17 +1064,17 @@
           }
         },
         {
-          "name": "BEIN SERIES 2",
-          "logo": "https://www.apnahdtv.com/images/bein-series-2-mea.png",
-          "streams": {
-            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxHrF+OaDpVNwmIzNpcKl86GD1r3psoqUv6MfrwXeXGhk="
-          }
-        },
-        {
           "name": "BEIN DRAMA",
           "logo": "https://www.apnahdtv.com/images/bein-drama-1-mea.png",
           "streams": {
             "HD": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxGXe+CBYeZ66+HXaodphqVIdqZZzm6+Hjz3E624JpKCs="
+          }
+        },
+        {
+          "name": "BEIN SERIES 2",
+          "logo": "https://www.apnahdtv.com/images/bein-series-2-mea.png",
+          "streams": {
+            "4K": "KD+UpdTLpdwa7UzLmy7l67N3PrCXR0xaBo4dloSuWvmwYamaqg3rv1ACOmZfzuqxHrF+OaDpVNwmIzNpcKl86GD1r3psoqUv6MfrwXeXGhk="
           }
         },
         {
