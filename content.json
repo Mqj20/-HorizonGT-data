@@ -1377,5 +1377,11 @@
   ],
   "movies": [],
   "series": [],
-  "matches": []
+  "matches": [],
+  "xtream": {
+    "enabled": true,
+    "url": "http://tanbieh.com:80",
+    "username": "110366811170D",
+    "password": "162411098190gH"
+  }
 }
