@@ -1376,7 +1376,27 @@
     }
   ],
   "movies": [],
-  "series": [],
+  "series": [
+    {
+      "name": "ليل البنفسج",
+      "items": [
+        {
+          "name": "ليل البنفسج",
+          "seasons": [
+            {
+              "name": "الموسم الثاني",
+              "episodes": [
+                {
+                  "name": "الحلقة 1 - الموسم الثاني",
+                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E01.mp4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "matches": [],
   "xtream": {
     "enabled": true,
