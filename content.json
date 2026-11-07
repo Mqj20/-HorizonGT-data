@@ -78,80 +78,10 @@
           }
         },
         {
-          "name": "BEIN SPORTS 2",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798829&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 3",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798830&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 4",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798831&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 5",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798833&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 6",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
-          "streams": {
-            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798834&extension=ts"
-          }
-        },
-        {
           "name": "BEIN SPORTS 1 (G)",
           "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
           "streams": {
             "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406823.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 2 (G)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406822.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 3 (G)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406821.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 4 (G)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406820.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 5 (G)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406819.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 6 (G)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
-          "streams": {
-            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406818.m3u8"
           }
         },
         {
@@ -162,10 +92,38 @@
           }
         },
         {
+          "name": "BEIN SPORTS 2",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798829&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 2 (G)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406822.m3u8"
+          }
+        },
+        {
           "name": "BEIN SPORTS 2 (NM)",
           "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
           "streams": {
             "LOW": "http://hydraa.st:80/live/ghadax88/0569777788/415737.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798830&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3 (G)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406821.m3u8"
           }
         },
         {
@@ -176,6 +134,20 @@
           }
         },
         {
+          "name": "BEIN SPORTS 4",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798831&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 4 (G)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406820.m3u8"
+          }
+        },
+        {
           "name": "BEIN SPORTS 4 (NM)",
           "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
           "streams": {
@@ -183,10 +155,38 @@
           }
         },
         {
+          "name": "BEIN SPORTS 5",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798833&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 5 (G)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406819.m3u8"
+          }
+        },
+        {
           "name": "BEIN SPORTS 5 (NM)",
           "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
           "streams": {
             "LOW": "http://hydraa.st:80/live/ghadax88/0569777788/415734.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "SD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798834&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6 (G)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "SD": "http://hydraa.st:80/live/ghadax88/0569777788/406818.m3u8"
           }
         },
         {
@@ -311,8 +311,219 @@
       ]
     },
     {
+      "name": "Solo",
+      "channels": [
+        {
+          "name": "IT: Sportitalia SoloCalcio",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/905174"
+          }
+        },
+        {
+          "name": "SOLO 1",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "SD": "http://8k.lol:80/19765982173986/15908418752697/861123",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/861131",
+            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861139",
+            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861147"
+          }
+        },
+        {
+          "name": "SOLO 2",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "SD": "http://8k.lol:80/19765982173986/15908418752697/861124",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/861132",
+            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861140",
+            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861148"
+          }
+        },
+        {
+          "name": "SOLO 3",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "SD": "http://8k.lol:80/19765982173986/15908418752697/861125",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/861133",
+            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861141",
+            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861149"
+          }
+        },
+        {
+          "name": "SOLO 4",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "SD": "http://8k.lol:80/19765982173986/15908418752697/861126",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/861134",
+            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861142",
+            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861150"
+          }
+        },
+        {
+          "name": "SOLO 5",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "SD": "http://8k.lol:80/19765982173986/15908418752697/861127",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/861135",
+            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861143",
+            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861151"
+          }
+        },
+        {
+          "name": "SOLO ACTION",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862119"
+          }
+        },
+        {
+          "name": "SOLO COMDEY",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862120"
+          }
+        },
+        {
+          "name": "SOLO DISNEY",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871256"
+          }
+        },
+        {
+          "name": "SOLO Documentary",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862118"
+          }
+        },
+        {
+          "name": "SOLO DRAMA",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862114"
+          }
+        },
+        {
+          "name": "SOLO F1",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "SD": "http://8k.lol:80/19765982173986/15908418752697/861128",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/861136",
+            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861144",
+            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861152"
+          }
+        },
+        {
+          "name": "SOLO HDR (HLG)",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/861513"
+          }
+        },
+        {
+          "name": "Solo Horror",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/864232"
+          }
+        },
+        {
+          "name": "SOLO KIDS",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862115"
+          }
+        },
+        {
+          "name": "SOLO MOVIES",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862116"
+          }
+        },
+        {
+          "name": "SOLO NEW",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871253"
+          }
+        },
+        {
+          "name": "Solo Pop Up",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/864233"
+          }
+        },
+        {
+          "name": "SOLO TMNT",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871252"
+          }
+        },
+        {
+          "name": "SOLO TURKEY",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862117"
+          }
+        },
+        {
+          "name": "SOLO UFC",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "SD": "http://8k.lol:80/19765982173986/15908418752697/861129",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/861137",
+            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861145",
+            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861153"
+          }
+        },
+        {
+          "name": "SOLO WWE",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "SD": "http://8k.lol:80/19765982173986/15908418752697/861130",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/861138",
+            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861146",
+            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861154"
+          }
+        },
+        {
+          "name": "SOLO باب الحارة",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871254"
+          }
+        },
+        {
+          "name": "SOLO مسلسلات سورية",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871255"
+          }
+        },
+        {
+          "name": "SOLO وادي الذئاب",
+          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871251"
+          }
+        }
+      ]
+    },
+    {
       "name": "Kurd Sport",
       "channels": [
+        {
+          "name": "ASTERA SPORT",
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/astera-sport.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/392643.ts"
+          }
+        },
         {
           "name": "AVA sport HD",
           "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10",
@@ -321,10 +532,24 @@
           }
         },
         {
+          "name": "DELAL SPORT",
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/delal-tv.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/392625.ts"
+          }
+        },
+        {
           "name": "Duhok HD",
           "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/duhok-sport.png",
           "streams": {
             "HD": "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/602828.ts"
+          }
+        },
+        {
+          "name": "LD SPORT 1",
+          "logo": "https://ui-avatars.com/api/?name=LD+SPORT&size=256&background=a1e649&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/392638.ts"
           }
         },
         {
@@ -354,26 +579,126 @@
           "streams": {
             "Auto": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/392632.ts"
           }
-        },
+        }
+      ]
+    },
+    {
+      "name": "Kurd sport-s2",
+      "channels": [
         {
-          "name": "ASTERA SPORT",
-          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/astera-sport.png",
+          "name": "IKUI 4 SPORT",
           "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/392643.ts"
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807585.ts"
           }
         },
         {
-          "name": "LD SPORT 1",
-          "logo": "https://ui-avatars.com/api/?name=LD+SPORT&size=256&background=a1e649&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "IKUI ARO SPORT",
           "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/392638.ts"
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807594.ts"
+          },
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10"
+        },
+        {
+          "name": "IKUI ASO SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807597.ts"
           }
         },
         {
-          "name": "DELAL SPORT",
-          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/delal-tv.png",
+          "name": "IKUI DASINYA SPORT",
           "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/392625.ts"
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807618.ts"
+          }
+        },
+        {
+          "name": "IKUI DELAL SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807619.ts"
+          },
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/delal-tv.png"
+        },
+        {
+          "name": "IKUI DUHOK SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807625.ts"
+          },
+          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/duhok-sport.png"
+        },
+        {
+          "name": "IKUI KURDISTAN SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807656.ts"
+          }
+        },
+        {
+          "name": "IKUI LD SPORT 1",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807672.ts"
+          },
+          "logo": "https://ui-avatars.com/api/?name=LD+SPORT&size=256&background=a1e649&color=ffffff&bold=true&rounded=true&format=png"
+        },
+        {
+          "name": "IKUI LD SPORT CHEK",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807673.ts"
+          }
+        },
+        {
+          "name": "IKUI MMN SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807688.ts"
+          }
+        },
+        {
+          "name": "IKUI NEWLINE SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807697.ts"
+          }
+        },
+        {
+          "name": "IKUI NRT SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807709.ts"
+          },
+          "logo": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c20.0.100.100/p100x100/10988492_706543286133301_1064764163848882081_n.jpg"
+        },
+        {
+          "name": "IKUI NUBAR SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807711.ts"
+          }
+        },
+        {
+          "name": "IKUI SEE SPORT 1",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807731.ts"
+          },
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=89e96d&color=ffffff&bold=true&rounded=true&format=png"
+        },
+        {
+          "name": "IKUI SEE SPORT 2",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807732.ts"
+          },
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=efa45b&color=ffffff&bold=true&rounded=true&format=png"
+        },
+        {
+          "name": "IKUI SEE SPORT 3",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807733.ts"
+          },
+          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=8110ea&color=ffffff&bold=true&rounded=true&format=png"
+        },
+        {
+          "name": "IKUI SIMA SPORT 1",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807737.ts"
+          }
+        },
+        {
+          "name": "IKUI ZAXO SPORT",
+          "streams": {
+            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807751.ts"
           }
         }
       ]
@@ -424,28 +749,46 @@
       ]
     },
     {
-      "name": "STARZPLAY",
+      "name": "Alfajer S2",
       "channels": [
         {
-          "name": "STARZPLAY SPORTS 1",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
+          "name": "AR: ALFAJER 1",
+          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260530.ts",
-            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260531.ts"
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/386683",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/386684"
           }
         },
         {
-          "name": "STARZPLAY SPORTS 2",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
+          "name": "AR: ALFAJER 2",
+          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260525.ts"
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/386685",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/386686"
           }
         },
         {
-          "name": "STARZPLAY GOLFLIFE",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
+          "name": "AR: ALFAJER 3",
+          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260523.ts"
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/386687",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/386688"
+          }
+        },
+        {
+          "name": "AR: ALFAJER 4",
+          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/386689",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/386690"
+          }
+        },
+        {
+          "name": "AR: ALFAJER 5",
+          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/386691",
+            "HD": "http://8k.lol:80/19765982173986/15908418752697/386692"
           }
         }
       ]
@@ -453,6 +796,104 @@
     {
       "name": "Alwan",
       "channels": [
+        {
+          "name": "Alwan Aflam 1 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358675.ts"
+          }
+        },
+        {
+          "name": "Alwan Aflam 2 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358676.ts"
+          }
+        },
+        {
+          "name": "Alwan Aflam 3 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358677.ts"
+          }
+        },
+        {
+          "name": "Alwan Aflam 4 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358678.ts"
+          }
+        },
+        {
+          "name": "Alwan Aghani 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358679.ts"
+          }
+        },
+        {
+          "name": "Alwan Alwathaoeqye 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358680.ts"
+          }
+        },
+        {
+          "name": "Alwan Anime 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358681.ts"
+          }
+        },
+        {
+          "name": "Alwan Atfal 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358682.ts"
+          }
+        },
+        {
+          "name": "Alwan Bollywood 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358683.ts"
+          }
+        },
+        {
+          "name": "Alwan F1 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358176.ts"
+          }
+        },
+        {
+          "name": "Alwan Korea 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358684.ts"
+          }
+        },
+        {
+          "name": "Alwan Mosalsalat 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358685.ts"
+          }
+        },
+        {
+          "name": "Alwan Mosalsalat+ 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358686.ts"
+          }
+        },
+        {
+          "name": "Alwan Quran 4K",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358687.ts"
+          }
+        },
         {
           "name": "Alwan Sport 1",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
@@ -543,10 +984,10 @@
           }
         },
         {
-          "name": "Alwan F1 4K",
+          "name": "Alwan Turkey 4K",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358176.ts"
+            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358688.ts"
           }
         },
         {
@@ -562,110 +1003,103 @@
           "streams": {
             "4K": "http://snap-tr.org/live/00491727832218/as2020as/358178.ts"
           }
-        },
-        {
-          "name": "Alwan Aflam 1 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358675.ts"
-          }
-        },
-        {
-          "name": "Alwan Aflam 2 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358676.ts"
-          }
-        },
-        {
-          "name": "Alwan Aflam 3 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358677.ts"
-          }
-        },
-        {
-          "name": "Alwan Aflam 4 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358678.ts"
-          }
-        },
-        {
-          "name": "Alwan Aghani 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358679.ts"
-          }
-        },
-        {
-          "name": "Alwan Alwathaoeqye 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358680.ts"
-          }
-        },
-        {
-          "name": "Alwan Anime 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358681.ts"
-          }
-        },
-        {
-          "name": "Alwan Atfal 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358682.ts"
-          }
-        },
-        {
-          "name": "Alwan Bollywood 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358683.ts"
-          }
-        },
-        {
-          "name": "Alwan Korea 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358684.ts"
-          }
-        },
-        {
-          "name": "Alwan Mosalsalat 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358685.ts"
-          }
-        },
-        {
-          "name": "Alwan Mosalsalat+ 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358686.ts"
-          }
-        },
-        {
-          "name": "Alwan Quran 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358687.ts"
-          }
-        },
-        {
-          "name": "Alwan Turkey 4K",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://snap-tr.org/live/00491727832218/as2020as/358688.ts"
-          }
         }
       ]
     },
     {
       "name": "Alwan S2",
       "channels": [
+        {
+          "name": "Alwan Aflam 1",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568803"
+          }
+        },
+        {
+          "name": "Alwan Aflam 2",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568804"
+          }
+        },
+        {
+          "name": "Alwan Aflam 3",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568805"
+          }
+        },
+        {
+          "name": "Alwan Aflam 4",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568806"
+          }
+        },
+        {
+          "name": "Alwan Aghani",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568811"
+          }
+        },
+        {
+          "name": "Alwan Alwathaeqye",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568808"
+          }
+        },
+        {
+          "name": "Alwan Anime",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568815"
+          }
+        },
+        {
+          "name": "Alwan Atfal",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568809"
+          }
+        },
+        {
+          "name": "Alwan Bollywood",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568812"
+          }
+        },
+        {
+          "name": "Alwan F1",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568789"
+          }
+        },
+        {
+          "name": "Alwan Korea",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568813"
+          }
+        },
+        {
+          "name": "Alwan Mosalsalat",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568810"
+          }
+        },
+        {
+          "name": "Alwan Mosalsalat+",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568814"
+          }
+        },
         {
           "name": "Alwan Sport 1",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
@@ -749,17 +1183,17 @@
           }
         },
         {
+          "name": "Alwan Turkey",
+          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+          "streams": {
+            "4K": "http://8k.lol:80/19765982173986/15908418752697/568807"
+          }
+        },
+        {
           "name": "Alwan UFC",
           "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
           "streams": {
             "4K": "http://8k.lol:80/19765982173986/15908418752697/568788"
-          }
-        },
-        {
-          "name": "Alwan F1",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568789"
           }
         },
         {
@@ -768,345 +1202,32 @@
           "streams": {
             "4K": "http://8k.lol:80/19765982173986/15908418752697/568790"
           }
-        },
-        {
-          "name": "Alwan Aflam 1",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568803"
-          }
-        },
-        {
-          "name": "Alwan Aflam 2",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568804"
-          }
-        },
-        {
-          "name": "Alwan Aflam 3",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568805"
-          }
-        },
-        {
-          "name": "Alwan Aflam 4",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568806"
-          }
-        },
-        {
-          "name": "Alwan Turkey",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568807"
-          }
-        },
-        {
-          "name": "Alwan Alwathaeqye",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568808"
-          }
-        },
-        {
-          "name": "Alwan Atfal",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568809"
-          }
-        },
-        {
-          "name": "Alwan Mosalsalat",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568810"
-          }
-        },
-        {
-          "name": "Alwan Aghani",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568811"
-          }
-        },
-        {
-          "name": "Alwan Bollywood",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568812"
-          }
-        },
-        {
-          "name": "Alwan Korea",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568813"
-          }
-        },
-        {
-          "name": "Alwan Mosalsalat+",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568814"
-          }
-        },
-        {
-          "name": "Alwan Anime",
-          "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/568815"
-          }
         }
       ]
     },
     {
-      "name": "Solo",
+      "name": "STARZPLAY",
       "channels": [
         {
-          "name": "SOLO HDR (HLG)",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "STARZPLAY GOLFLIFE",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/861513"
+            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260523.ts"
           }
         },
         {
-          "name": "SOLO 1",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "STARZPLAY SPORTS 1",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
-            "SD": "http://8k.lol:80/19765982173986/15908418752697/861123",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/861131",
-            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861139",
-            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861147"
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260530.ts",
+            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260531.ts"
           }
         },
         {
-          "name": "SOLO 2",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "STARZPLAY SPORTS 2",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
-            "SD": "http://8k.lol:80/19765982173986/15908418752697/861124",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/861132",
-            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861140",
-            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861148"
-          }
-        },
-        {
-          "name": "SOLO 3",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "SD": "http://8k.lol:80/19765982173986/15908418752697/861125",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/861133",
-            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861141",
-            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861149"
-          }
-        },
-        {
-          "name": "SOLO 4",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "SD": "http://8k.lol:80/19765982173986/15908418752697/861126",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/861134",
-            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861142",
-            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861150"
-          }
-        },
-        {
-          "name": "SOLO 5",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "SD": "http://8k.lol:80/19765982173986/15908418752697/861127",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/861135",
-            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861143",
-            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861151"
-          }
-        },
-        {
-          "name": "SOLO F1",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "SD": "http://8k.lol:80/19765982173986/15908418752697/861128",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/861136",
-            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861144",
-            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861152"
-          }
-        },
-        {
-          "name": "SOLO UFC",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "SD": "http://8k.lol:80/19765982173986/15908418752697/861129",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/861137",
-            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861145",
-            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861153"
-          }
-        },
-        {
-          "name": "SOLO WWE",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "SD": "http://8k.lol:80/19765982173986/15908418752697/861130",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/861138",
-            "FHD": "http://8k.lol:80/19765982173986/15908418752697/861146",
-            "HEVC": "http://8k.lol:80/19765982173986/15908418752697/861154"
-          }
-        },
-        {
-          "name": "SOLO DRAMA",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862114"
-          }
-        },
-        {
-          "name": "SOLO KIDS",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862115"
-          }
-        },
-        {
-          "name": "SOLO MOVIES",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862116"
-          }
-        },
-        {
-          "name": "SOLO TURKEY",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862117"
-          }
-        },
-        {
-          "name": "SOLO Documentary",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862118"
-          }
-        },
-        {
-          "name": "SOLO ACTION",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862119"
-          }
-        },
-        {
-          "name": "SOLO COMDEY",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/862120"
-          }
-        },
-        {
-          "name": "Solo Horror",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/864232"
-          }
-        },
-        {
-          "name": "SOLO TMNT",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871252"
-          }
-        },
-        {
-          "name": "SOLO NEW",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871253"
-          }
-        },
-        {
-          "name": "SOLO باب الحارة",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871254"
-          }
-        },
-        {
-          "name": "SOLO مسلسلات سورية",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871255"
-          }
-        },
-        {
-          "name": "SOLO DISNEY",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871256"
-          }
-        },
-        {
-          "name": "SOLO وادي الذئاب",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/871251"
-          }
-        },
-        {
-          "name": "Solo Pop Up",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/864233"
-          }
-        },
-        {
-          "name": "IT: Sportitalia SoloCalcio",
-          "logo": "https://ui-avatars.com/api/?name=SOLO&size=256&background=333333&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://8k.lol:80/19765982173986/15908418752697/905174"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Alfajer S2",
-      "channels": [
-        {
-          "name": "AR: ALFAJER 1",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/386683",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/386684"
-          }
-        },
-        {
-          "name": "AR: ALFAJER 2",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/386685",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/386686"
-          }
-        },
-        {
-          "name": "AR: ALFAJER 3",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/386687",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/386688"
-          }
-        },
-        {
-          "name": "AR: ALFAJER 4",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/386689",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/386690"
-          }
-        },
-        {
-          "name": "AR: ALFAJER 5",
-          "logo": "https://ui-avatars.com/api/?name=AR%3A+ALFAJER&size=256&background=d29c65&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "4K": "http://8k.lol:80/19765982173986/15908418752697/386691",
-            "HD": "http://8k.lol:80/19765982173986/15908418752697/386692"
+            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260525.ts"
           }
         }
       ]
@@ -1115,10 +1236,59 @@
       "name": "Thmanyah",
       "channels": [
         {
-          "name": "STC TV THMANYAH",
-          "logo": "https://ui-avatars.com/api/?name=STC+TV&size=256&background=7a5bc3&color=ffffff&bold=true&rounded=true&format=png",
+          "name": "1001 La liga 1",
+          "logo": "https://ui-avatars.com/api/?name=1001+La&size=256&background=d74ecf&color=ffffff&bold=true&rounded=true&format=png",
           "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/332591.ts"
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336133.ts"
+          }
+        },
+        {
+          "name": "1001 La liga 2",
+          "logo": "https://ui-avatars.com/api/?name=1001+La&size=256&background=3d8a05&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336134.ts"
+          }
+        },
+        {
+          "name": "Diwan Sport 1(live.Events)",
+          "logo": "https://ui-avatars.com/api/?name=Diwan+Sport&size=256&background=8b659d&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336135.ts"
+          }
+        },
+        {
+          "name": "Diwan Sport 2(live.Events)",
+          "logo": "https://ui-avatars.com/api/?name=Diwan+Sport&size=256&background=e26143&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336136.ts"
+          }
+        },
+        {
+          "name": "Diwan Sport 3(live.Events)",
+          "logo": "https://ui-avatars.com/api/?name=Diwan+Sport&size=256&background=cca526&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336137.ts"
+          }
+        },
+        {
+          "name": "Shasha 1(live.Events)",
+          "logo": "https://ui-avatars.com/api/?name=Shasha+1%28live.Events%29&size=256&background=c3f014&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336138.ts"
+          }
+        },
+        {
+          "name": "Shasha 2(live.Events)",
+          "logo": "https://ui-avatars.com/api/?name=Shasha+2%28live.Events%29&size=256&background=79b7ca&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336139.ts"
+          }
+        },
+        {
+          "name": "Shasha 3(live.Events)",
+          "logo": "https://ui-avatars.com/api/?name=Shasha+3%28live.Events%29&size=256&background=aae251&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336140.ts"
           }
         },
         {
@@ -1133,6 +1303,13 @@
           "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "Auto": "http://snap-tr.org/live/00491727832218/as2020as/332593.ts"
+          }
+        },
+        {
+          "name": "STC TV THMANYAH",
+          "logo": "https://ui-avatars.com/api/?name=STC+TV&size=256&background=7a5bc3&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/332591.ts"
           }
         },
         {
@@ -1188,66 +1365,10 @@
           }
         },
         {
-          "name": "1001 La liga 1",
-          "logo": "https://ui-avatars.com/api/?name=1001+La&size=256&background=d74ecf&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336133.ts"
-          }
-        },
-        {
-          "name": "1001 La liga 2",
-          "logo": "https://ui-avatars.com/api/?name=1001+La&size=256&background=3d8a05&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336134.ts"
-          }
-        },
-        {
-          "name": "Diwan Sport 1(live.Events)",
-          "logo": "https://ui-avatars.com/api/?name=Diwan+Sport&size=256&background=8b659d&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336135.ts"
-          }
-        },
-        {
-          "name": "Diwan Sport 2(live.Events)",
-          "logo": "https://ui-avatars.com/api/?name=Diwan+Sport&size=256&background=e26143&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336136.ts"
-          }
-        },
-        {
-          "name": "Diwan Sport 3(live.Events)",
-          "logo": "https://ui-avatars.com/api/?name=Diwan+Sport&size=256&background=cca526&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336137.ts"
-          }
-        },
-        {
           "name": "Thmanyah Super Cup",
           "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "http://snap-tr.org/live/00491727832218/as2020as/343744.ts"
-          }
-        },
-        {
-          "name": "Shasha 1(live.Events)",
-          "logo": "https://ui-avatars.com/api/?name=Shasha+1%28live.Events%29&size=256&background=c3f014&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336138.ts"
-          }
-        },
-        {
-          "name": "Shasha 2(live.Events)",
-          "logo": "https://ui-avatars.com/api/?name=Shasha+2%28live.Events%29&size=256&background=79b7ca&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336139.ts"
-          }
-        },
-        {
-          "name": "Shasha 3(live.Events)",
-          "logo": "https://ui-avatars.com/api/?name=Shasha+3%28live.Events%29&size=256&background=aae251&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "Auto": "http://snap-tr.org/live/00491727832218/as2020as/336140.ts"
           }
         }
       ]
@@ -1265,16 +1386,355 @@
       ]
     },
     {
-      "name": "MBC",
+      "name": "قنوات 4K",
       "channels": [
         {
-          "name": "MBC Action",
-          "logo": "https://www.apnahdtv.com/images/mbc-action.png",
+          "name": "beIN 1 — CONNECT 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
           "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34211.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34241.ts"
+            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/b1c_1080.m3u8"
           }
         },
+        {
+          "name": "beIN 1 — GOGO 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b1g_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 1 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b1nm_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 1 — SA 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b1s_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 2 — CONNECT 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/b2c_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 2 — GOGO 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b2g_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 2 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b2nm_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 2 — SA 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b2s_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 2 — TOD 4K",
+          "logo": "https://i.ibb.co/30Zp99W/tod-tv.png",
+          "streams": {
+            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/stream_147de596.m3u8"
+          }
+        },
+        {
+          "name": "beIN 3 — CONNECT 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/b3c_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 3 — GOGO 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b3g_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 3 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b3nm_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 3 — SA 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b3s_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 4 — FAMILY 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b4f_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 4 — GOGO 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b4g_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 4 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b4nm_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 4 — SA 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b4s_1080.m3u8"
+          }
+        },
+        {
+          "name": "beIN 4K — 4K SOLO SPORTS",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/4k_solo.m3u8"
+          }
+        },
+        {
+          "name": "beIN 4K — 4K TOD SS",
+          "logo": "https://i.ibb.co/30Zp99W/tod-tv.png",
+          "streams": {
+            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/4k_tod.m3u8"
+          }
+        },
+        {
+          "name": "beIN 4K — 4K أجنبي",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/4k_8k.m3u8"
+          }
+        },
+        {
+          "name": "beIN 5 — NM 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b5nm_1080.m3u8"
+          }
+        },
+        {
+          "name": "BEIN MOVIES 1 PREMIERE — 4K",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-1-premiere-mea.png",
+          "streams": {
+            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275184.ts"
+          }
+        },
+        {
+          "name": "BEIN MOVIES 3 DRAMA — 4K",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-3-drama-mea.png",
+          "streams": {
+            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275182.ts"
+          }
+        },
+        {
+          "name": "BEIN MOVIES 4 FAMILY — 4K",
+          "logo": "https://www.apnahdtv.com/images/bein-movies-4-family-mea.png",
+          "streams": {
+            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275181.ts"
+          }
+        },
+        {
+          "name": "BEIN SERIES 2",
+          "logo": "https://www.apnahdtv.com/images/bein-series-2-mea.png",
+          "streams": {
+            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275179.ts"
+          }
+        },
+        {
+          "name": "BEIN SPORT 4K (Backup)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "http://falcontv.online/live/Sa46760987435/YoS87435/271896.ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1 4k+ (Backup)",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K+": "http://falcontv.online/live/Sa46760987435/YoS87435/163571.ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406796.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415774.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 1 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
+          "streams": {
+            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798795&extension=ts",
+            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798772&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 2 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406795.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 2 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415773.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 2 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
+          "streams": {
+            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798796&extension=ts",
+            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798773&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406794.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415772.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 3 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
+          "streams": {
+            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798797&extension=ts",
+            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798788&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 4 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406793.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 4 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415771.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 4 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798798&extension=ts",
+            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798789&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 5 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406792.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 5 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415770.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 5 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798799&extension=ts",
+            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798790&extension=ts"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6 (G) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406791.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6 (NM) — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415769.m3u8"
+          }
+        },
+        {
+          "name": "BEIN SPORTS 6 — 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798800&extension=ts",
+            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798791&extension=ts"
+          }
+        },
+        {
+          "name": "beiN SPORTS 7 (G) - 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
+          "streams": {
+            "4K": "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/677018.ts"
+          }
+        },
+        {
+          "name": "beiN SPORTS 8 (G) - 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
+          "streams": {
+            "4K": "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/677019.ts"
+          }
+        },
+        {
+          "name": "beiN SPORTS 9 (G) - 4K",
+          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
+          "streams": {
+            "4K": "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/677020.ts"
+          }
+        }
+      ]
+    },
+    {
+      "name": "MBC",
+      "channels": [
         {
           "name": "MBC 1",
           "logo": "https://www.apnahdtv.com/images/mbc1.png",
@@ -1316,11 +1776,43 @@
           }
         },
         {
-          "name": "MBC MASR DRAMA",
-          "logo": "https://www.apnahdtv.com/images/mbc-masr-drama.png",
+          "name": "MBC Action",
+          "logo": "https://www.apnahdtv.com/images/mbc-action.png",
           "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/539520.ts",
-            "HD": "http://n7s.top:80/live/khalil6g/365324g/539521.ts"
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34211.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34241.ts"
+          }
+        },
+        {
+          "name": "MBC Bollywood",
+          "logo": "https://www.apnahdtv.com/images/mbc-bollywood.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34206.ts",
+            "USA": "http://n7s.top:80/live/khalil6g/365324g/413327.ts"
+          }
+        },
+        {
+          "name": "MBC Drama",
+          "logo": "https://www.apnahdtv.com/images/mbc-drama.png",
+          "streams": {
+            "4K_PLUS": "http://n7s.top:80/live/khalil6g/365324g/34212.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34239.ts"
+          }
+        },
+        {
+          "name": "MBC FM",
+          "logo": "https://ui-avatars.com/api/?name=MBC+FM&size=256&background=e27c47&color=ffffff&bold=true&rounded=true&format=png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34202.ts",
+            "PANORAMA": "http://n7s.top:80/live/khalil6g/365324g/387770.ts"
+          }
+        },
+        {
+          "name": "MBC Iraq",
+          "logo": "https://www.apnahdtv.com/images/mbc-iraq.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34214.ts",
+            "SD": "http://n7s.top:80/live/khalil6g/365324g/34238.ts"
           }
         },
         {
@@ -1339,43 +1831,11 @@
           }
         },
         {
-          "name": "MBC Iraq",
-          "logo": "https://www.apnahdtv.com/images/mbc-iraq.png",
+          "name": "MBC MASR DRAMA",
+          "logo": "https://www.apnahdtv.com/images/mbc-masr-drama.png",
           "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34214.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34238.ts"
-          }
-        },
-        {
-          "name": "MBC Drama",
-          "logo": "https://www.apnahdtv.com/images/mbc-drama.png",
-          "streams": {
-            "4K_PLUS": "http://n7s.top:80/live/khalil6g/365324g/34212.ts",
-            "SD": "http://n7s.top:80/live/khalil6g/365324g/34239.ts"
-          }
-        },
-        {
-          "name": "MBC Variety",
-          "logo": "https://www.apnahdtv.com/images/mbc4.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34210.ts",
-            "USA": "http://n7s.top:80/live/khalil6g/365324g/413328.ts"
-          }
-        },
-        {
-          "name": "MBC Bollywood",
-          "logo": "https://www.apnahdtv.com/images/mbc-bollywood.png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34206.ts",
-            "USA": "http://n7s.top:80/live/khalil6g/365324g/413327.ts"
-          }
-        },
-        {
-          "name": "MBC FM",
-          "logo": "https://ui-avatars.com/api/?name=MBC+FM&size=256&background=e27c47&color=ffffff&bold=true&rounded=true&format=png",
-          "streams": {
-            "4K": "http://n7s.top:80/live/khalil6g/365324g/34202.ts",
-            "PANORAMA": "http://n7s.top:80/live/khalil6g/365324g/387770.ts"
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/539520.ts",
+            "HD": "http://n7s.top:80/live/khalil6g/365324g/539521.ts"
           }
         },
         {
@@ -1384,6 +1844,14 @@
           "streams": {
             "SD": "http://n7s.top:80/live/khalil6g/365324g/34235.ts",
             "USA": "http://n7s.top:80/live/khalil6g/365324g/413332.ts"
+          }
+        },
+        {
+          "name": "MBC Variety",
+          "logo": "https://www.apnahdtv.com/images/mbc4.png",
+          "streams": {
+            "4K": "http://n7s.top:80/live/khalil6g/365324g/34210.ts",
+            "USA": "http://n7s.top:80/live/khalil6g/365324g/413328.ts"
           }
         },
         {
@@ -1405,6 +1873,105 @@
     {
       "name": "Bien Entertainment",
       "channels": [
+        {
+          "name": "ALFA CINEMA 1",
+          "logo": "https://www.apnahdtv.com/images/alfa-cinema-1-mea.png",
+          "streams": {
+            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471854.ts"
+          }
+        },
+        {
+          "name": "ALFA FAN",
+          "logo": "https://www.apnahdtv.com/images/alfa-fan-mea.png",
+          "streams": {
+            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471852.ts"
+          }
+        },
+        {
+          "name": "ALFA SAFWAH",
+          "logo": "https://www.apnahdtv.com/images/alfa-safwah-mea.png",
+          "streams": {
+            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471855.ts"
+          }
+        },
+        {
+          "name": "BARAEM",
+          "logo": "https://www.apnahdtv.com/images/baraem-mea.png",
+          "streams": {
+            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471869.ts",
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471879.ts"
+          }
+        },
+        {
+          "name": "BEIN AMC",
+          "logo": "https://www.apnahdtv.com/images/amc-mea.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471886.ts"
+          }
+        },
+        {
+          "name": "BEIN ANIMAL PLANET",
+          "logo": "https://www.apnahdtv.com/images/animal-planet-int.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/470405.ts"
+          }
+        },
+        {
+          "name": "BEIN BOOMERANG",
+          "logo": "https://www.apnahdtv.com/images/boomerang-mea.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471872.ts"
+          }
+        },
+        {
+          "name": "BEIN CARTOON NETWORK",
+          "logo": "https://www.apnahdtv.com/images/cartoon-network-int.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471873.ts"
+          }
+        },
+        {
+          "name": "BEIN DISCOVERY FAMILY",
+          "logo": "https://www.apnahdtv.com/images/discovery-family-int.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471882.ts"
+          }
+        },
+        {
+          "name": "BEIN DRAMA",
+          "logo": "https://www.apnahdtv.com/images/bein-drama-1-mea.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471893.ts"
+          }
+        },
+        {
+          "name": "BEIN GOURMET",
+          "logo": "https://www.apnahdtv.com/images/bein-gourmet-mea.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471884.ts"
+          }
+        },
+        {
+          "name": "BEIN HGTV",
+          "logo": "https://www.apnahdtv.com/images/bein-h-and-e-hd-tr.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471880.ts"
+          }
+        },
+        {
+          "name": "BEIN JEEM",
+          "logo": "https://www.apnahdtv.com/images/jeem-mea.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471870.ts"
+          }
+        },
+        {
+          "name": "BEIN JUNIOR",
+          "logo": "https://www.apnahdtv.com/images/be-junior-mea.png",
+          "streams": {
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471875.ts"
+          }
+        },
         {
           "name": "BEIN MOVIES 1 PREMIERE",
           "logo": "https://www.apnahdtv.com/images/bein-movies-1-premiere-mea.png",
@@ -1434,103 +2001,10 @@
           }
         },
         {
-          "name": "BEIN DRAMA",
-          "logo": "https://www.apnahdtv.com/images/bein-drama-1-mea.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471893.ts"
-          }
-        },
-        {
-          "name": "BEIN ANIMAL PLANET",
-          "logo": "https://www.apnahdtv.com/images/animal-planet-int.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/470405.ts"
-          }
-        },
-        {
           "name": "BEIN NATIONAL GEO",
           "logo": "https://www.apnahdtv.com/images/national-geographic-int.png",
           "streams": {
             "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/470404.ts"
-          }
-        },
-        {
-          "name": "BARAEM",
-          "logo": "https://www.apnahdtv.com/images/baraem-mea.png",
-          "streams": {
-            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471869.ts",
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471879.ts"
-          }
-        },
-        {
-          "name": "FATAFEAT",
-          "logo": "https://www.apnahdtv.com/images/fatafeat.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471883.ts",
-            "HEVC": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471859.ts"
-          }
-        },
-        {
-          "name": "BEIN GOURMET",
-          "logo": "https://www.apnahdtv.com/images/bein-gourmet-mea.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471884.ts"
-          }
-        },
-        {
-          "name": "BEIN HGTV",
-          "logo": "https://www.apnahdtv.com/images/bein-h-and-e-hd-tr.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471880.ts"
-          }
-        },
-        {
-          "name": "BEIN JEEM",
-          "logo": "https://www.apnahdtv.com/images/jeem-mea.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471870.ts"
-          }
-        },
-        {
-          "name": "BEIN AMC",
-          "logo": "https://www.apnahdtv.com/images/amc-mea.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471886.ts"
-          }
-        },
-        {
-          "name": "BEIN BOOMERANG",
-          "logo": "https://www.apnahdtv.com/images/boomerang-mea.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471872.ts"
-          }
-        },
-        {
-          "name": "BEIN CARTOON NETWORK",
-          "logo": "https://www.apnahdtv.com/images/cartoon-network-int.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471873.ts"
-          }
-        },
-        {
-          "name": "BEIN JUNIOR",
-          "logo": "https://www.apnahdtv.com/images/be-junior-mea.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471875.ts"
-          }
-        },
-        {
-          "name": "BEIN DISCOVERY FAMILY",
-          "logo": "https://www.apnahdtv.com/images/discovery-family-int.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471882.ts"
-          }
-        },
-        {
-          "name": "FOOD NETWORK",
-          "logo": "https://www.apnahdtv.com/images/food-network-int.png",
-          "streams": {
-            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471887.ts"
           }
         },
         {
@@ -1548,13 +2022,6 @@
           }
         },
         {
-          "name": "NICKELODEON",
-          "logo": "https://www.apnahdtv.com/images/nickelodeon-int.png",
-          "streams": {
-            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471856.ts"
-          }
-        },
-        {
           "name": "DOCUMENTARY BIL ARABIE",
           "logo": "https://www.apnahdtv.com/images/bein-documentary-mea.png",
           "streams": {
@@ -1562,492 +2029,25 @@
           }
         },
         {
-          "name": "ALFA FAN",
-          "logo": "https://www.apnahdtv.com/images/alfa-fan-mea.png",
+          "name": "FATAFEAT",
+          "logo": "https://www.apnahdtv.com/images/fatafeat.png",
           "streams": {
-            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471852.ts"
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471883.ts",
+            "HEVC": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471859.ts"
           }
         },
         {
-          "name": "ALFA SAFWAH",
-          "logo": "https://www.apnahdtv.com/images/alfa-safwah-mea.png",
+          "name": "FOOD NETWORK",
+          "logo": "https://www.apnahdtv.com/images/food-network-int.png",
           "streams": {
-            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471855.ts"
+            "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471887.ts"
           }
         },
         {
-          "name": "ALFA CINEMA 1",
-          "logo": "https://www.apnahdtv.com/images/alfa-cinema-1-mea.png",
+          "name": "NICKELODEON",
+          "logo": "https://www.apnahdtv.com/images/nickelodeon-int.png",
           "streams": {
-            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471854.ts"
-          }
-        }
-      ]
-    },
-    {
-      "name": "قنوات 4K",
-      "channels": [
-        {
-          "name": "beIN 4K — 4K SOLO SPORTS",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/4k_solo.m3u8"
-          }
-        },
-        {
-          "name": "beIN 4K — 4K أجنبي",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/4k_8k.m3u8"
-          }
-        },
-        {
-          "name": "beIN 4K — 4K TOD SS",
-          "logo": "https://i.ibb.co/30Zp99W/tod-tv.png",
-          "streams": {
-            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/4k_tod.m3u8"
-          }
-        },
-        {
-          "name": "beIN 1 — GOGO 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b1g_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 1 — CONNECT 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/b1c_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 1 — SA 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b1s_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 1 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b1nm_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 2 — GOGO 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b2g_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 2 — TOD 4K",
-          "logo": "https://i.ibb.co/30Zp99W/tod-tv.png",
-          "streams": {
-            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/stream_147de596.m3u8"
-          }
-        },
-        {
-          "name": "beIN 2 — CONNECT 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/b2c_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 2 — SA 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b2s_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 2 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b2nm_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 3 — GOGO 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b3g_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 3 — CONNECT 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "https://hdr-plasma4k-extraali4k.b-cdn.net/order/b3c_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 3 — SA 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b3s_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 3 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b3nm_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 4 — GOGO 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b4g_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 4 — SA 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b4s_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 4 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b4nm_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 4 — FAMILY 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b4f_1080.m3u8"
-          }
-        },
-        {
-          "name": "beIN 5 — NM 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "4K": "https://1cnter-plasma4k-extraali4k.b-cdn.net/order/b5nm_1080.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 1 — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798795&extension=ts",
-            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798772&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 2 — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798796&extension=ts",
-            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798773&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 3 — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798797&extension=ts",
-            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798788&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 4 — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798798&extension=ts",
-            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798789&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 5 — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798799&extension=ts",
-            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798790&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 6 — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
-          "streams": {
-            "4K": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798800&extension=ts",
-            "UHD": "http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798791&extension=ts"
-          }
-        },
-        {
-          "name": "BEIN SPORT 4K (Backup)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "http://falcontv.online/live/Sa46760987435/YoS87435/271896.ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 1 4k+ (Backup)",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K+": "http://falcontv.online/live/Sa46760987435/YoS87435/163571.ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 1 (G) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406796.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 2 (G) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406795.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 3 (G) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406794.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 4 (G) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406793.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 5 (G) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406792.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 6 (G) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/406791.m3u8"
-          }
-        },
-        {
-          "name": "beiN SPORTS 7 (G) - 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/677018.ts"
-          }
-        },
-        {
-          "name": "beiN SPORTS 8 (G) - 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "4K": "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/677019.ts"
-          }
-        },
-        {
-          "name": "beiN SPORTS 9 (G) - 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
-          "streams": {
-            "4K": "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/677020.ts"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 1 (NM) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd1-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415774.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 2 (NM) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd2-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415773.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 3 (NM) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd3-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415772.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 4 (NM) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd4-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415771.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 5 (NM) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd5-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415770.m3u8"
-          }
-        },
-        {
-          "name": "BEIN SPORTS 6 (NM) — 4K",
-          "logo": "https://apnahdtv.com/images/bein-sports-hd6-hz-int.png",
-          "streams": {
-            "4K": "http://hydraa.st:80/live/ghadax88/0569777788/415769.m3u8"
-          }
-        },
-        {
-          "name": "BEIN MOVIES 1 PREMIERE — 4K",
-          "logo": "https://www.apnahdtv.com/images/bein-movies-1-premiere-mea.png",
-          "streams": {
-            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275184.ts"
-          }
-        },
-        {
-          "name": "BEIN MOVIES 3 DRAMA — 4K",
-          "logo": "https://www.apnahdtv.com/images/bein-movies-3-drama-mea.png",
-          "streams": {
-            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275182.ts"
-          }
-        },
-        {
-          "name": "BEIN MOVIES 4 FAMILY — 4K",
-          "logo": "https://www.apnahdtv.com/images/bein-movies-4-family-mea.png",
-          "streams": {
-            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275181.ts"
-          }
-        },
-        {
-          "name": "BEIN SERIES 2",
-          "logo": "https://www.apnahdtv.com/images/bein-series-2-mea.png",
-          "streams": {
-            "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275179.ts"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Kurd sport-s2",
-      "channels": [
-        {
-          "name": "IKUI DUHOK SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807625.ts"
-          },
-          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/duhok-sport.png"
-        },
-        {
-          "name": "IKUI 4 SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807585.ts"
-          }
-        },
-        {
-          "name": "IKUI ARO SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807594.ts"
-          },
-          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10"
-        },
-        {
-          "name": "IKUI ASO SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807597.ts"
-          }
-        },
-        {
-          "name": "IKUI DASINYA SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807618.ts"
-          }
-        },
-        {
-          "name": "IKUI DELAL SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807619.ts"
-          },
-          "logo": "https://mixmedia.tv/wp-content/uploads/2022/08/delal-tv.png"
-        },
-        {
-          "name": "IKUI KURDISTAN SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807656.ts"
-          }
-        },
-        {
-          "name": "IKUI LD SPORT 1",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807672.ts"
-          },
-          "logo": "https://ui-avatars.com/api/?name=LD+SPORT&size=256&background=a1e649&color=ffffff&bold=true&rounded=true&format=png"
-        },
-        {
-          "name": "IKUI LD SPORT CHEK",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807673.ts"
-          }
-        },
-        {
-          "name": "IKUI MMN SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807688.ts"
-          }
-        },
-        {
-          "name": "IKUI NEWLINE SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807697.ts"
-          }
-        },
-        {
-          "name": "IKUI NRT SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807709.ts"
-          },
-          "logo": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c20.0.100.100/p100x100/10988492_706543286133301_1064764163848882081_n.jpg"
-        },
-        {
-          "name": "IKUI NUBAR SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807711.ts"
-          }
-        },
-        {
-          "name": "IKUI SEE SPORT 1",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807731.ts"
-          },
-          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=89e96d&color=ffffff&bold=true&rounded=true&format=png"
-        },
-        {
-          "name": "IKUI SEE SPORT 2",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807732.ts"
-          },
-          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=efa45b&color=ffffff&bold=true&rounded=true&format=png"
-        },
-        {
-          "name": "IKUI SEE SPORT 3",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807733.ts"
-          },
-          "logo": "https://ui-avatars.com/api/?name=SEE+SPORT&size=256&background=8110ea&color=ffffff&bold=true&rounded=true&format=png"
-        },
-        {
-          "name": "IKUI SIMA SPORT 1",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807737.ts"
-          }
-        },
-        {
-          "name": "IKUI ZAXO SPORT",
-          "streams": {
-            "HD": "http://my99599.site:2095/live/Monzer685729139/196856302922/807751.ts"
+            "SD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/471856.ts"
           }
         }
       ]
