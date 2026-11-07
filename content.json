@@ -428,7 +428,7 @@
       "channels": [
         {
           "name": "STARZPLAY SPORTS 1",
-          "logo": "https://ui-avatars.com/api/?name=STARZPLAY+SPORTS&size=256&background=3959a8&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "HD": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260530.ts",
             "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260531.ts"
@@ -436,14 +436,14 @@
         },
         {
           "name": "STARZPLAY SPORTS 2",
-          "logo": "https://ui-avatars.com/api/?name=STARZPLAY+SPORTS&size=256&background=92e177&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260525.ts"
           }
         },
         {
           "name": "STARZPLAY GOLFLIFE",
-          "logo": "https://ui-avatars.com/api/?name=STARZPLAY+GOLFLIFE&size=256&background=ce0e93&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "4K": "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/260523.ts"
           }
@@ -1123,21 +1123,21 @@
         },
         {
           "name": "Starzplay sport 1",
-          "logo": "https://ui-avatars.com/api/?name=Starzplay+sport&size=256&background=094f51&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "Auto": "http://snap-tr.org/live/00491727832218/as2020as/332592.ts"
           }
         },
         {
           "name": "Starzplay sport 2",
-          "logo": "https://ui-avatars.com/api/?name=Starzplay+sport&size=256&background=c08e06&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/STARZPLAY_png.png",
           "streams": {
             "Auto": "http://snap-tr.org/live/00491727832218/as2020as/332593.ts"
           }
         },
         {
           "name": "Thmanyah 1",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+1&size=256&background=84dba8&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "FHD": "http://snap-tr.org/live/00491727832218/as2020as/332596.ts",
             "HD": "http://snap-tr.org/live/00491727832218/as2020as/332598.ts"
@@ -1145,7 +1145,7 @@
         },
         {
           "name": "Thmanyah 2",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+2&size=256&background=ce3b45&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "FHD": "http://snap-tr.org/live/00491727832218/as2020as/332597.ts",
             "HD": "http://snap-tr.org/live/00491727832218/as2020as/332599.ts"
@@ -1153,7 +1153,7 @@
         },
         {
           "name": "Thmanyah 3",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+3&size=256&background=68c6fd&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "FHD": "http://snap-tr.org/live/00491727832218/as2020as/332600.ts",
             "HD": "http://snap-tr.org/live/00491727832218/as2020as/332601.ts"
@@ -1161,28 +1161,28 @@
         },
         {
           "name": "Thmanyah 4",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+4&size=256&background=fdc76e&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "FHD": "http://snap-tr.org/live/00491727832218/as2020as/352645.ts"
           }
         },
         {
           "name": "Thmanyah Minasa 1 Multi audio",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+Minasa&size=256&background=b3ff9f&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "http://snap-tr.org/live/00491727832218/as2020as/352646.ts"
           }
         },
         {
           "name": "Thmanyah Minasa 2 Multi audio",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+Minasa&size=256&background=275125&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "http://snap-tr.org/live/00491727832218/as2020as/352647.ts"
           }
         },
         {
           "name": "Thmanyah Minasa 3 Multi audio",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+Minasa&size=256&background=a2f266&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "http://snap-tr.org/live/00491727832218/as2020as/352648.ts"
           }
@@ -1224,7 +1224,7 @@
         },
         {
           "name": "Thmanyah Super Cup",
-          "logo": "https://ui-avatars.com/api/?name=Thmanyah+Super&size=256&background=9187dd&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "Auto": "http://snap-tr.org/live/00491727832218/as2020as/343744.ts"
           }
@@ -1257,7 +1257,7 @@
       "channels": [
         {
           "name": "ثمانية 1 — 4K HDR",
-          "logo": "https://ui-avatars.com/api/?name=%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9+1&size=256&background=6eb199&color=ffffff&bold=true&rounded=true&format=png",
+          "logo": "https://company.thmanyah.com/wp-content/uploads/2024/01/black_transparent_2x.webp",
           "streams": {
             "4K": "https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTMiLCJleHAiOjE3OTM0ODU5OTMsImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOmZhbHNlLCJpYXQiOjE3OTM0Njc5OTMsImlwIjoiMTY5LjIyNC45Ni4xMDMiLCJpcF92NCI6IjE2OS4yMjQuOTYuMTAzIiwiaXBfdjYiOiIiLCJsaXZlSWQiOiI4aDhobGd5dWRqcjZxdndhN2YxNGR2N3JvIiwibGl2ZVR5cGUiOiJtYXRjaCIsIm5iZiI6MTc5MzQ2NzkzMywicXVhbGl0eUZpbHRlciI6ImF1ZGlvX2xhbmd1YWdlOmFyYSxlbmc7dmlkZW9fZHluYW1pY19yYW5nZTpzZHI7dmlkZW9faGVpZ2h0OjEtMzYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1Ni4wLjAuMCBTYWZhcmkvNTM3LjM2IiwidXNlcklkIjoieTV2S3huam5GeE5iOWMzWGRSalk2OGhKbFQ4MiJ9.esu8z9_o9meqdzDoe-BbI4aJSklwhKwy_MXbVsCpO8g/live/CH13/index.m3u8"
           }
