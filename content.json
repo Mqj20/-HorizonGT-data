@@ -2051,6 +2051,23 @@
           }
         }
       ]
+    },
+    {
+      "name": "TOD",
+      "channels": [
+        {
+          "name": "Arsenal",
+          "streams": {
+            "HD": "http://dana8kone.com:8080/live/dilarsx1/cd679c264/482686.ts"
+          }
+        },
+        {
+          "name": "Espanyol",
+          "streams": {
+            "HD": "http://dana8kone.com:8080/live/dilarsx1/cd679c264/482682.ts"
+          }
+        }
+      ]
     }
   ],
   "movies": [],
