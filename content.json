@@ -2066,6 +2066,34 @@
           "streams": {
             "HD": "http://dana8kone.com:8080/live/dilarsx1/cd679c264/482700.ts"
           }
+        },
+        {
+          "name": "ريال مدريد",
+          "type": "Business",
+          "streams": {
+            "HD": "ضع رابط القناة هنا"
+          }
+        },
+        {
+          "name": "ريال مدريد",
+          "type": "Business",
+          "streams": {
+            "HD": "ضع رابط القناة هنا"
+          }
+        },
+        {
+          "name": "ريال مدريد",
+          "type": "Business",
+          "streams": {
+            "HD": "ضع رابط القناة هنا"
+          }
+        },
+        {
+          "name": "ريال مدريد",
+          "type": "Business",
+          "streams": {
+            "HD": "ضع رابط القناة هنا"
+          }
         }
       ]
     }
@@ -2091,7 +2119,7 @@
                 },
                 {
                   "name": "الحلقة الثالثة - الموسم الثاني",
-                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E03.mp4"
+                  "url": "cEtivPqiDC3CqmS8jNYLiYJ/BUVb3H9JsQCQCo6RD0v2qAO7JRBodLWgXmxZ8OD2EM7vxAE9weuJ6c/knHvLnjQEmHJY2bPzQkJBHC60qLs="
                 }
               ]
             }
@@ -2107,4 +2135,4 @@
     "username": "19765982173986",
     "password": "15908418752697"
   }
-}
+     }
