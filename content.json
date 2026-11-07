@@ -2056,15 +2056,15 @@
       "name": "TOD",
       "channels": [
         {
-          "name": "Arsenal",
+          "name": "Man+City",
           "streams": {
             "HD": "http://cf-dana.com:8080/live/khaled81/487650495167/482700.ts"
           }
         },
         {
-          "name": "Espanyol",
+          "name": "Man+City",
           "streams": {
-            "HD": "http://dana8kone.com:8080/live/dilarsx1/cd679c264/482682.ts"
+            "HD": "http://dana8kone.com:8080/live/dilarsx1/cd679c264/482700.ts"
           }
         }
       ]
