@@ -9,191 +9,276 @@
   },
   "channels": [
     {
-      "name": "شبكة قنوات SOLO",
-      "items": [
+      "name": "G",
+      "channels": [
         {
-          "name": "SOLO ACTION",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240682.ts",
-          "logo": "https://img.icons8.com/color/512/action.png"
+          "name": "BEIN SPORTS NEWS",
+          "logo": "https://www6.0zz0.com/2021/07/08/08/511936894.png",
+          "streams": {
+            "HD": "HZ2:NJeipeHcmFQ1z3l42chGCS1zkccMk7Ju5sludvL9Ltc4tnBFwl/N5arTRXCVbMkG/+kVH/1GdfYRAp+9+zE3C4J2iZkIfiapivgH6ssXWhlytSq9R/zs2gyqyErp"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO COMEDY",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240683.ts",
-          "logo": "https://img.icons8.com/color/512/comedy.png"
+          "name": "Bein Sport Mena",
+          "logo": "http://up.jsd9.site/up/HsGysb1Uco.png",
+          "streams": {
+            "HD": "HZ2:p7euXW7mRsKN0URRmA0qb6u7qqCMFaMcEXomA7fYGRVI2zRwYgtar4AFfPDg7iF05u+IDB9FLcu3JHSvgh6B/cwmqQ1m1KeGXLLB5nBdQ+ihVUnId9zXy1jCHzkc"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO Documentary",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240681.ts",
-          "logo": "https://img.icons8.com/color/512/documentary.png"
+          "name": "BEIN SPORTS 1",
+          "logo": "https://www6.0zz0.com/2021/07/08/08/752923487.png",
+          "streams": {
+            "HD": "HZ2:sZMzFLCNnwst5MEX8ARC50lLw/J6mmi22w+VGTlhJINznywATIqJtoRgiF8CiUmF0j3NCVrTTOdoMJ5EqtppK2apZWDwPndAe8UKdJZZsHbJn1e5FSufWxrxqnmJ"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO DRAMA",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240677.ts",
-          "logo": "https://img.icons8.com/color/512/theater-masks.png"
+          "name": "BEIN SPORTS 2",
+          "logo": "https://www6.0zz0.com/2021/07/08/08/886438986.png",
+          "streams": {
+            "HD": "HZ2:3pPT0XSAmufeYABbO1aTHirZajImD6HxSr3ewNmC8iz+QcXb8G2DhlqK2qsHemqVbmiRtLBgTno6r4D/ykf/jX09HFAOqCeH2l0022zIgXfCjCg6ApKKm/KX2+1k"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO Horror",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240684.ts",
-          "logo": "https://img.icons8.com/color/512/horror.png"
+          "name": "BEIN SPORTS 3",
+          "logo": "https://www6.0zz0.com/2021/07/08/08/927254160.png",
+          "streams": {
+            "HD": "HZ2:7twMJFm6S2x42f7hj0HeIiDTnMpGwMFJjCv3LDuYh4aY2erA6efGdB67RhRbLF/OISsjBlGoUun+0OvFPbrc2N0M9caobFaHbvLhD3EuqmN5YjX2lVK9keViCKGz"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO KIDS",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240678.ts",
-          "logo": "https://img.icons8.com/color/512/children-teeth.png"
+          "name": "BEIN SPORTS 4",
+          "logo": "https://www4.0zz0.com/2021/07/08/08/309828085.png",
+          "streams": {
+            "HD": "HZ2:9vRrySGrEVaH31yc8jFQJgVQ76od2xV8+4CSiTMkH8Tkw6cGfd3CZoBwsDbU4sE9m4NJ3M0o18OKp/VblRo9Q/zOY7yOvG3kQvpXVoTGWVRSMX2kmyVhvCL+kean"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO MOVIES",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240679.ts",
-          "logo": "https://img.icons8.com/color/512/clapperboard.png"
+          "name": "BEIN SPORTS 5",
+          "logo": "https://www4.0zz0.com/2021/07/08/08/633113235.png",
+          "streams": {
+            "HD": "HZ2:fQxlp8gpHJXVVLfjYLJ2BhuN/Gpj7YzCxr1EJgBhjdVkUcvyBWQShJdtUOW7f7bETSrrq0nzZyZTJYl7epGIB4gdQ56dHuF0bML1SsFnqbHt9WFmn+p8wDRSXGE2"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO NEW",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240701.ts",
-          "logo": "https://img.icons8.com/color/512/new.png"
+          "name": "BEIN SPORTS 6",
+          "logo": "https://www4.0zz0.com/2021/07/08/08/781939349.png",
+          "streams": {
+            "HD": "HZ2:xPdpcS4Hh5nC11zHOpkFg6fmXauWbirCY+1DZWrWihcSgGZcxDBlbKPre/zoBA86aq1afA+pya76NZ/5sbAp0tOApn1kAncItIarMt1ubc6J6c6flagmXWUDBe+u"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO SPORT 1 HD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240660.ts",
-          "logo": "https://img.icons8.com/color/512/sports.png"
+          "name": "BEIN SPORTS 7",
+          "logo": "https://www4.0zz0.com/2021/07/08/08/882342264.png",
+          "streams": {
+            "HD": "HZ2:Xl4NiOqt/POEVeaR6ojSGl348kyljmWWLZxlI6yz9ddla8R+VkuxJfk+AWq7ehkFAlH6hZ8O0lP3dpkmmOTWmXMiL/tSTzIKhm6vsQWr5f4innL3fi6HKwibX3xW"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO SPORT 1 SD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240661.ts",
-          "logo": "https://img.icons8.com/color/512/sports.png"
+          "name": "BEIN SPORTS 8+",
+          "logo": "",
+          "streams": {
+            "HD": "HZ2:JMpvZthUROyWjvbnnM2CxdmN88Wo3dlFNlbXK6zlTpobvtIKFyZ5yy5x3P5T8lgUOWZahoO37LuU8v8WIhP27B2PyKnjzRz3Q7EqDnPpx9YSABJPPxuhnGl0XJTj"
+          },
+          "category": "BEIN"
         },
         {
-          "name": "SOLO SPORT 2 HD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240662.ts",
-          "logo": "https://img.icons8.com/color/512/sports.png"
+          "name": "BEIN SPORTS 9+",
+          "logo": "",
+          "streams": {
+            "HD": "HZ2:wUUg/foy3wfWbsF/HuwIowkdYslOUCVWH2SOvit/BwDOttDaWbMA9E2udsC6375FXZ6vmNL+Wxv5NYelpFKxAydsUldr/fJjtYC1lHOA8k7B3ur3Of2Mqno9EJcX"
+          },
+          "category": "BEIN"
+        }
+      ]
+    },
+    {
+      "name": "باقة بين الترفيهية",
+      "channels": [
+        {
+          "name": "Bein Box Office 1",
+          "logo": "https://www13.0zz0.com/2021/07/10/15/630091358.png",
+          "streams": {
+            "HD": "HZ2:b/WB0IAHECI8dq6sMvNJWmnJ1kgT+X3CUwK3vDcUwj/9qN3ZHoAiFgh6rim7FWvAlfWyNYKZnr+bkMEpCP/OM9Ol/p/Kt78zrgqqNrreWdLtc37Tu0ElUGopsHSD",
+            "HD (احتياطي)": "HZ2:QYQ19EA0z79qGupNmwaj5CWMNzf9DpwX7tCwTLLe+oaj/GjJY75VO85Uqh5VEI4ldtR0wrVSc+JF+h77PIpybaqBq0VlS2dEFt0rLY+9JbCa3F8XDYQgrBQ2035U"
+          }
         },
         {
-          "name": "SOLO SPORT 2 SD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240662.ts",
-          "logo": "https://img.icons8.com/color/512/sports.png"
+          "name": "Bein Box Office 2",
+          "logo": "https://www13.0zz0.com/2021/07/10/15/324858700.png",
+          "streams": {
+            "HD": "HZ2:vLL0Eqw9T3UblddPRfVS9gArX9N26smzzmRiEeJ/YuetJzJ8OGuNtaCk9R3VJhqxlpciDqsqR6pIjYB08K0QxG3Bn6uh074YYL6BgMPVfgbPOfokRMmQSsO7OaYA"
+          }
         },
         {
-          "name": "SOLO SPORT 3 HD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240663.ts",
-          "logo": "https://img.icons8.com/color/512/sports.png"
+          "name": "BeIN Dream Network",
+          "logo": "http://up.jsd9.site/up/uDZfghi6zK.jpeg",
+          "streams": {
+            "HD": "HZ2:Pv4hKoAR0GOe7P0WbHZD7taqZ5TQZfm72YAGn77BrPV04C6/+Eabwtn4j8E+d5a3Tr5GZT5OQBUwxGt8xinIPrrT5H5STad9CtDXWjpc0MCUgCgZ6B2uQ+wODBLm"
+          }
         },
         {
-          "name": "SOLO SPORT 3 SD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240664.ts",
-          "logo": "https://img.icons8.com/color/512/sports.png"
+          "name": "Travel",
+          "logo": "http://up.jsd9.site/up/QGwqOh9F7ksl.png",
+          "streams": {
+            "HD": "HZ2:k9i2MIgfI9ZguMm45L0BDEpkx6C2qHQ51rD9cgEPPWDlTinHqmgW8Pq30glo9qfgwstWvLfk7LiD6P8j2xaYpRGgF5caNbQFekrVcGlQWLN3P5ILoGEoedZxQnmr"
+          }
         },
         {
-          "name": "SOLO SPORT 4 SD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240668.ts",
-          "logo": "https://img.icons8.com/color/512/sports.png"
+          "name": "BeIN Nat Wild",
+          "logo": "http://bit.ly/2tT4gXW",
+          "streams": {
+            "HD": "HZ2:Y2cnCY50hLH3xRQJdfEreo1hRnQ4JiXvFdg5aVZs5+Acxl6sN0yFUEkQt5GM2rl1EE/y9K2KQ2HCxVXdsVSZOuEwIwxwxq3pFmMJ/+UwIXXe39Z8DB6ZIv6BetHd"
+          }
         },
         {
-          "name": "SOLO SPORT 5 SD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240670.ts",
-          "logo": "https://img.icons8.com/color/512/sports.png"
+          "name": "BeIN Nat Geo",
+          "logo": "http://bit.ly/2tT2INC",
+          "streams": {
+            "HD": "HZ2:bzLbXrWpbd+NRX0NrI8ly0smb3dtwFULH89cUyekbZgKA1LJdzk3u+zta9ZKQF2Pu83+h3W0ir+BpU72aL85LzV76FSZElrclQK8yGrwX0CCi3/YG7Yu3iDH66+V"
+          }
         },
         {
-          "name": "SOLO SPORT F1 HD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240671.ts",
-          "logo": "https://img.icons8.com/color/512/formula-1.png"
+          "name": "BeIN Cartoon Network",
+          "logo": "http://up.jsd9.site/up/hMKyHzNa.png",
+          "streams": {
+            "HD": "HZ2:LTxw2LRDrfaEBYp7E+tf2MLLgEAdv1DbF9fw7E5Ko5icd+aiaVxRR5JRi9ySelY49aep5wNN3F1NXa4fMHptey7QTEoLLHnSQmYufJOQEUKBRXUc2W1YYYUOhax8"
+          }
         },
         {
-          "name": "SOLO SPORT F1 SD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240672.ts",
-          "logo": "https://img.icons8.com/color/512/formula-1.png"
+          "name": "BeIN Boomerang",
+          "logo": "http://up.jsd9.site/up/ScdLiR3Nu.png",
+          "streams": {
+            "HD": "HZ2:6XwNaTIdxU4rXP/2iUH6+atJB+i8kxfjc27sjAgdVBjfeFnwvtHpsYEZRWywRDSgKtzJTzG42/h1MGugKgtbhAE0gCH93H9ITdhSN3DuLwEP00RS1Fjw+fBprmrk"
+          }
         },
         {
-          "name": "SOLO SPORT UFC HD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240673.ts",
-          "logo": "https://img.icons8.com/color/512/boxing-glove.png"
+          "name": "BeIN Baraem",
+          "logo": "http://up.jsd9.site/up/jDZHRYvm4JP.png",
+          "streams": {
+            "HD": "HZ2:9kk9GSrclTwI3TdHaP7Iqf2Q4DVZ3JPAoOqsi3NwHV0Gdan6rDF8qTGLJpcz0hzcthh22DN/WVoYwQt0MZJVJsTx4tSFcnq4+uzdPaO3kW59isg7Yb+TDR6o1Jy/"
+          }
         },
         {
-          "name": "SOLO SPORT UFC SD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240674.ts",
-          "logo": "https://img.icons8.com/color/512/boxing-glove.png"
+          "name": "BeIN Jeem",
+          "logo": "http://bit.ly/2zeX79i",
+          "streams": {
+            "HD": "HZ2:BwIE/HrBmGnZ9UhaDXbhHyrZM5ESoK58HtZ2POA7npXm6znj3iy3mJNdS2srmy67XC9kjBn7kLit60kyZSvteu8YBFebgjTmJMEEPQl2YNUBK/UFPrj7NYmFsRFQ"
+          }
         },
         {
-          "name": "SOLO SPORT WWE HD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240675.ts",
-          "logo": "https://img.icons8.com/color/512/wrestling.png"
+          "name": "BeIN HGTV",
+          "logo": "http://up.jsd9.site/up/MxgqngnI.png",
+          "streams": {
+            "HD": "HZ2:aHCo8mklfaO9u90Kgbemsm2AUCoXp0TwPk/Y2GTIEPGW6clmkQ06S1f9AX+F7l2x6AK1v0l7iAi18Ptzms3RjNZhEOXLLEJvrEUeXSBmGZP9WqI2rkJ3OhksZCTS"
+          }
         },
         {
-          "name": "SOLO SPORT WWE SD",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240676.ts",
-          "logo": "https://img.icons8.com/color/512/wrestling.png"
+          "name": "BeIN Fatafeat",
+          "logo": "http://up.jsd9.site/up/Qh7mJ1Tn.png",
+          "streams": {
+            "HD": "HZ2:3L4hQdxTCrFy85/KxKehu7UGwcMQKVaqSzM/UUY+htAAjsc8AnzM91dWPN5T29hXAvhzbfb9PH6T+MO7d9TVZVisaJdBreh24YYmDNgOdfx7ZD4xX+g8ByQEGplD"
+          }
         },
         {
-          "name": "SOLO TMNT",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240700.ts",
-          "logo": "https://img.icons8.com/color/512/ninja-turtle.png"
+          "name": "BeIN Drama 1",
+          "logo": "http://bit.ly/2KMBAcX",
+          "streams": {
+            "HD": "HZ2:9SExKZnIAbWYcGBya+xsaZCXBh/TgqrRK+Q6KDRnswMhKk8LDcawD0ksST/KjC58iAkGd3t9BhsHxcO+NWn2W2W3cLq6lCVVggt+6nukrCN96O9KRVn9r4NIvXKh"
+          }
         },
         {
-          "name": "SOLO TURKEY",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240680.ts",
-          "logo": "https://img.icons8.com/color/512/turkey-flag.png"
+          "name": "beIN SERIES 1",
+          "logo": "http://bit.ly/2KU1Sdd",
+          "streams": {
+            "HD": "HZ2:TWwpPTUsEuIwLYRhDbid1LwDWIU6fNTIdIzzaiuBkE0jRnwjUeMy2M/eKCVb7sgKzp5bVRPmf/KrFsErltspCcCGPHgDTrWKg+6e1y4Cv3Lq5QHEWOSzNFMIKWpe"
+          }
         },
         {
-          "name": "المؤسس عثمان SOLO",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240706.ts",
-          "logo": "https://img.icons8.com/color/512/sword.png"
+          "name": "beIN MOVIES 1",
+          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
+          "streams": {
+            "HD": "HZ2:R7MYj+2BaYfmwih2sqOC3HS/cQasBs5z0IIeTPf0gAQJjKd/Frni7IHiperg8x5qx9109qOaKrUFvv4lX/Z2Z3Fhf67l6yE629MD4XZo+BW6gAumcRUbcLH/Vvmg"
+          }
         },
         {
-          "name": "الحفرة SOLO",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240704.ts",
-          "logo": "https://img.icons8.com/color/512/shield.png"
+          "name": "beIN MOVIES 2",
+          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
+          "streams": {
+            "HD": "HZ2:/RIJmuHAgrjGDofJY3O5wpUG0iahQYcDzBYlBunjPNYRB8A/Im24uInv2/BdgjKGqEfmH72rUtGCmV5waTzEXwezfFMGNU8iclbKbuFNKa6SuVrUXwX6VDjFdjCm"
+          }
         },
         {
-          "name": "باب الحارة SOLO",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240702.ts",
-          "logo": "https://img.icons8.com/color/512/gate.png"
+          "name": "beIN MOVIES 3",
+          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
+          "streams": {
+            "HD": "HZ2:3cfTrUm0bQv9BwPUniuOg6DbLmOi74L/c8SJmblw/2CJWdb2oZaJwfE0Gw7Erf1PxRiHkb60sYuy0Gfr2W3gmIL1iiWWb1gSvKrc6XUPsfpD9Z79l+wD9YFFpaT+"
+          }
         },
         {
-          "name": "حريم السلطان SOLO",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240705.ts",
-          "logo": "https://img.icons8.com/color/512/crown.png"
+          "name": "beIN SERIES 2",
+          "logo": "http://up.jsd9.site/up/8M3ZiW7X.png",
+          "streams": {
+            "HD": "HZ2:r9KDg69pKbwAi503J9hbAOmwPJI5yLvi0MlumAd5Iv2R8plp2SRvQutsDS/nwjqGPHvPRosFsUT+vl3I+tpgdQOU11pKufP5aV6NVM1xshjUNISlm7RyBPSt0e6i"
+          }
         },
         {
-          "name": "مسلسلات سورية",
-          "url": "http://paliptv.com:80/live/WnlzW7tnTE6X5YU/RPlDM9C1Pi1/240703.ts",
-          "logo": "https://img.icons8.com/color/512/syria-flag.png"
+          "name": "beIN MOVIES 4",
+          "logo": "http://up.jsd9.site/up/qcwb2jwo8z4R.png",
+          "streams": {
+            "HD": "HZ2:GNXIQh5fKST4nt34EhmHWTHJZgJLzLuL2FW9woH/M8Id02wRlNxBy2RGTAKxZPExzA4lNxdHH19sAaPaJyotYtTax7LPFbjFszggQpf+UtVdUPfOzJT2ji9OXK3m"
+          }
+        },
+        {
+          "name": "BeIN bbc earth",
+          "logo": "http://up.jsd9.site/up/5xOh1Pl3pw.png",
+          "streams": {
+            "4K": "HZ2:JYdooTl5fgFae0k0nobfTHDehpVFFKogOPZYx5HLBxcM9s8VpcNVIApBIgWavxSWogH0iny2V5AAFjoFeyNsmO9E3D+x5Ycqz2K0CbhqYAAMPQVzGmGTgURN3YTi",
+            "4K (احتياطي)": "HZ2:YEsoB+TCvymG36d2tJhTqX/yq+vOtpe5zgRFONl8ySmF40rJ6MVTh0NYiXEspWnLEioE2tlwLdp17fF8Rut5MfYk/l0hVwHrAFrBmyd6oAE+QaVpiUgeTYXYti4r"
+          }
+        },
+        {
+          "name": "BeIN Discovery Family",
+          "logo": "http://up.jsd9.site/up/ZnsCMvJP.jpeg",
+          "streams": {
+            "HD": "HZ2:y9JZfg1BVHBiKNeTeXeQVY2t5mGAPZKCsf0e0Il9lgPun0FnjB6e/eoZpJv4u4FXG4sgV3rt7jVi4RxMvHlelm9w1VhZh2AXnDmAa73Yw+hVWyrXFjjkUmOMBeUD"
+          }
+        },
+        {
+          "name": "BeIN Be Junior",
+          "logo": "http://up.jsd9.site/up/Ny0TIc4vpA2H.jpeg",
+          "streams": {
+            "HD": "HZ2:vgwaRDiprozFpB/dLcMy+NkOKgIoCoKyURZVHC8jj/fD+oZitV6HSB3i7Cn1Adr/CyGb+Hw3pG2TgLnv5smjtN4D6h3kgIrRHkewRgAM8XxZ8Dcjjn4q8+hF9DSF"
+          }
+        },
+        {
+          "name": "BeiN Animal Planet",
+          "logo": "http://up.jsd9.site/up/LbbrlXWTh7C.png",
+          "streams": {
+            "4K": "HZ2:en/7mwMoJBzRvHcf2K4OW/69V0H/rCj0USmIlgF7WezW7z1y0xwb2SbXdjxGIyCq5CFinH4lf58rNXvM79X939uH2B71lGQPca0EH4c8ondVUO7B/vtWIANDVT0x",
+            "4K (احتياطي)": "HZ2:Xpoj1a7kKpiv5E4SoyskAFhnSvaS3yTMCKg/+eiVgblJIehtzGRh4KIhpqNOi2sOwOy0QHdralou6NimcX59Q3//IygNqnrrVgoBacM/kyhmUOdNLJz6OSvhtDLh"
+          }
+        },
+        {
+          "name": "BeIN Food Network",
+          "logo": "http://up.jsd9.site/up/qa7Fw64bqw.png",
+          "streams": {
+            "HD": "HZ2:0fSxN7dzn4gjwywSMZoM2XVxJf9eivF0enxRuciP/jXHYJFKfO7IKC7FQtqHcaQedl21z6S6KfRVVS2ZVoJ8UX1wDCY7AqsFmB9genbQ2VxLyeGwphbtxRXEQ8Hj"
+          }
         }
       ]
     }
   ],
   "movies": [],
-  "series": [
-    {
-      "name": "ليل البنفسج",
-      "items": [
-        {
-          "name": "ليل البنفسج",
-          "seasons": [
-            {
-              "name": "الموسم الثاني",
-              "episodes": [
-                {
-                  "name": "الحلقة الأولى - الموسم الثاني",
-                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E01.mp4"
-                },
-                {
-                  "name": "الحلقة الثانية - الموسم الثاني",
-                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E02.mp4"
-                },
-                {
-                  "name": "الحلقة الثالثة - الموسم الثاني",
-                  "url": "http://130.193.165.22/Flussonic248/ArabicTVSeries2/LaylAlbanafsaj-S02E03.mp4"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "matches": [],
-  "xtream": {
-    "enabled": true,
-    "url": "8k.lol:80",
-    "username": "19765982173986",
-    "password": "15908418752697"
-  }
+  "series": [],
+  "matches": []
 }
